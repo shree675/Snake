@@ -13,7 +13,17 @@
 
 <p>
   <img src="screenshots and videos/Screenshot (125).png", height="350", width="350">
- </p>
+</p>
+ 
+<p>
+  <img src="screenshots and videos/Screenshot (127).png", height="350", width="350">
+</p>
+ 
+<p>
+  <img src="screenshots and videos/Screenshot (128).png", height="350", width="350">
+</p>
+ 
+Check out [screenshots and videos]() for more screenshots and videos.
 
 ## Version
 v2019
