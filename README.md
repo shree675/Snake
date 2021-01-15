@@ -26,4 +26,4 @@
 Check out [screenshots and videos](https://github.com/shree675/Snake/tree/main/screenshots%20and%20videos) for more screenshots and videos.
 
 ## Version
-v2019
+2019
